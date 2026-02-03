@@ -1,5 +1,7 @@
 # Computer Types
 
+**[View Live Site](https://ritapereira10.github.io/computer-types/)**
+
 A guide to different types of computers and their characteristics.
 
 ## Overview
